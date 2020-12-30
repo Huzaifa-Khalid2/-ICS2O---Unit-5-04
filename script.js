@@ -21,4 +21,4 @@ area = ' = 25cm2'
 alert(area)
 let statement = 'Therefore the area of this trapezoid is 25cm'
 statement = 'Therefore the area of this trapezoid is 25cm2'
-alert(statement) 
+alert(statement)
