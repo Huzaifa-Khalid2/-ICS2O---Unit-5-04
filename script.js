@@ -1,5 +1,5 @@
-let side1 = 'five centimeters'
-side1 = 'side a = 5cm'
+let side1 = 'seven centimeters'
+side1 = 'side a = 7cm'
 alert(side1)
 let side2 = 'five centimeters'
 side2 = 'side b = 5cm'
@@ -14,11 +14,11 @@ let formula = 'a = (a + b)/2 x h'
 formula = 'a = (side a + side b)/2 x h'
 alert(formula)
 let equation = 'a = (a + b)/2 x h'
-equation = ' = (5+5)/2 x 5'
+equation = ' = (7+2)/2 x 3'
 alert(equation)
-let area = 'a = (5+5)/2 x 5'
-area = ' = 25cm2'
+let area = 'a = (7+2)/2 x 3'
+area = ' = 13.5cm2'
 alert(area)
-let statement = 'Therefore the area of this trapezoid is 25cm'
-statement = 'Therefore the area of this trapezoid is 25cm2'
+let statement = 'Therefore the area of this trapezoid is 13.5cm'
+statement = 'Therefore the area of this trapezoid is 13.5cm2'
 alert(statement)
